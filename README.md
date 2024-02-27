@@ -1,4 +1,5 @@
 # Zoomers-Media
+This is a Python Telegram bot that helps you search for stock images and videos from Pexels right within your Telegram chat.
 
 # Setup 
 To use this bot, you need to follow these steps:
